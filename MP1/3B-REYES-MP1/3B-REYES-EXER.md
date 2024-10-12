@@ -123,17 +123,23 @@ Continuously track patient outcomes and system performance, making adjustments a
 # **Summary**
 
 
-- Knowledge representation is a critical framework within the health sector, whereby it helps to organize and use medical information for better clinical decision-making, thereby improving patient outcomes. Some of its major constituents include
-Framework creation: It employs methodologies like ontologies and semantic networks to define medical concepts and relationships.
+- Knowledge representation is a critical framework within the health sector, whereby it helps to organize and use medical information for better clinical decision-making, thereby improving patient outcomes.
+
+### Some of its major constituents include:
+
+- Framework creation: It employs methodologies like ontologies and semantic networks to define medical concepts and relationships.
 
 - EHR Integration: Patients' data gets collected systematically and stored by using EHRs that provide real-time access to all relevant information.
 
 - Clinical Decision Support Systems: Install data analysis systems that allow data monitoring of individual patients to generate evidence-based diagnosis and appropriate treatment recommendations based on established clinical guidelines.
-Improvement of Interoperability: Standardized vocabularies, for example, SNOMED-CT, to ensure the free flow of information amongst departments within the same hospital.
+
+- Improvement of Interoperability: Standardized vocabularies, for example, SNOMED-CT, to ensure the free flow of information amongst departments within the same hospital.
 
 - Installation of Continuous Learning Capability Enabled by Feedback Loops: Updating of clinical guidelines and refinement of recommendations in view of new research findings and treatment outcomes.
-Training of Healthcare Staff: A training service that should be offered to staff on knowledge representation. Knowledge representation trains staff to interpret data and use the tools effectively.
-Outcome Monitoring: A process of constant follow-up of patient outcomes and system performance with necessary changes to make the knowledge representation approach more effective.
+
+- Training of Healthcare Staff: A training service that should be offered to staff on knowledge representation. Knowledge representation trains staff to interpret data and use the tools effectively.
+
+- Outcome Monitoring: A process of constant follow-up of patient outcomes and system performance with necessary changes to make the knowledge representation approach more effective.
 
 - These approaches can enable hospitals to exploit knowledge representation for smoother operations, support healthcare providers in decision-making, and thus ultimately a better care facility for patients.
 
